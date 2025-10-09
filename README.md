@@ -1,7 +1,5 @@
 <h1 align="center">👋 Hi, I'm <b>Prachi Mittal</b></h1>
 
-
-
 <p align="center">
   <b>Cloud Developer • Software Developer (Python) • AI Engineer</b><br>
   <a href="mailto:pmitta21@asu.edu">pmitta21@asu.edu</a> ·
@@ -12,12 +10,9 @@
 ---
 
 ## 🚀 What I Do
-I’m a **Software Developer (Python)** and **Cloud Engineer** passionate about building scalable, production-ready systems.  
-My focus is on **backend and platform engineering** — APIs, microservices, and serverless architectures on **AWS and Azure**.  
+I build backend services and cloud systems that are dependable, fast, and easy to maintain. Most of my work is in Python and .NET, with real deployments on AWS and Azure. I enjoy shaping APIs, microservices, and event driven pipelines and I like seeing dashboards light up when everything comes together.
 
-I design solutions that are reliable, performant, and easy to maintain — from event-driven pipelines to real-time dashboards.  
-Curious about innovation, I occasionally bring **practical AI capabilities** into my work (like text analysis, ranking, and summarization) where they truly make an impact.  
-I’m motivated by challenges, quick to learn new technologies, and love transforming ideas into well-engineered products.
+I am curious about AI and bring it in when it clearly helps, for example for text analysis, ranking, and summarizing. I learn quickly, ship often, and care about clean code that teams can trust in production.
 
 ---
 
@@ -71,29 +66,30 @@ I’m motivated by challenges, quick to learn new technologies, and love transfo
 ## 🧩 Featured Projects
 
 ### 🔎 AI Job Finder Agent
-*Aggregates job postings via APIs, embeds & ranks them against my resume, and produces a daily shortlist.*  
-**Stack:** Python · LangChain · OpenAI · Chroma/FAISS · JSearch API  
-> Designed for scalable automation — roadmap includes email digests and tailored resume generation.
+This agent pulls fresh job posts through public APIs, embeds and compares them to my resume, and produces a daily shortlist with links.  
+**Stack:** Python, LangChain, OpenAI, Chroma or FAISS, JSearch API  
+Built for automation and easy extension. Email digests and tailored resume text are next.
 
-### ☁️ FeedbackIQ – Cloud-Native Feedback Portal
-*Analyzes 1k+ feedbacks/day with real-time sentiment alerts and dashboards.*  
-**Stack:** AWS Lambda · S3 · RDS · Comprehend · SQS/SNS · React  
-> Achieved 99.9% uptime and reduced manual review time by 60%.
+### ☁️ FeedbackIQ
+A cloud portal that ingests customer feedback at scale and sends real time sentiment alerts with a simple dashboard.  
+**Stack:** AWS Lambda, S3, RDS, Comprehend, SQS and SNS, React  
+The pilot ran at 99.9 percent uptime and cut manual review time by about 60 percent.
 
 ### ⚙️ .NET Microservices Accelerator
-*Parallel data workflows that reduced latency 60 → 15 minutes.*  
-**Stack:** .NET Core · Angular · REST APIs · Docker  
-> Optimized for throughput and maintainability at scale.
+Parallel data services that turned hour long processing into a quick run.  
+**Stack:** .NET Core, Angular, REST APIs, Docker  
+Designed for throughput with clear observability.
 
 ---
 
 ## 📜 Certifications
 **Microsoft Certified:**  
-AI Engineer Associate (AI-102) · Azure AI Fundamentals (AI-900) · Azure Fundamentals (AZ-900)
+AI Engineer Associate (AI 102), Azure AI Fundamentals (AI 900), Azure Fundamentals (AZ 900)
 
 ---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prachimittal23&label=Profile%20Views&color=8A2BE2&style=flat" alt="Profile views"/>
 </p>
 
-<p align="center"><em>Python Developer · Cloud Engineer · Quick learner & problem solver</em></p>
+<p align="center"><em>Python developer at heart, cloud builder by habit, always curious and ready to ship.</em></p>
