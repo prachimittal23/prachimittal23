@@ -1,6 +1,6 @@
-<h1 align="center">👋 Hi, I'm <b>Prachi Mittal</b></h1>
+<h1 align="center">Hi, I'm <b>Prachi Mittal</b></h1>
 <p align="center">
-  <b>Cloud Developer • AI Engineer • Full-Stack</b><br>
+  <b>Cloud Developer • AI Engineer • Software Developer</b><br>
   <a href="mailto:pmitta21@asu.edu">pmitta21@asu.edu</a> ·
   <a href="https://prachimittal23.github.io" target="_blank">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/mittal-prachi1/" target="_blank">LinkedIn</a>
@@ -9,8 +9,11 @@
 ---
 
 ## 🚀 What I Do
-I build **reliable backends** and **practical AI applications**, combining scalable cloud infrastructure with modern development practices.  
-Recently: delivered **serverless data pipelines** handling 5k+ records weekly, and created **AI agents** for intelligent job matching and sentiment-driven insights.
+I’m a **Software Developer** turned **Cloud Engineer**, building scalable and intelligent systems.  
+My experience spans **.NET, AWS Serverless, and modern web frameworks**, delivering optimized microservices and cloud-native data pipelines that process thousands of records weekly.  
+
+Currently exploring **AI-driven automation and LLM applications**, integrating tools like **LangChain**, **OpenAI**, and **AWS SageMaker** to bridge software engineering and applied AI.  
+I’m constantly learning, experimenting, and building — from production-ready cloud systems to experimental AI agents that solve real-world challenges.
 
 ---
 
@@ -61,46 +64,31 @@ Recently: delivered **serverless data pipelines** handling 5k+ records weekly, a
 
 ---
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&random=false&width=600&lines=🚀+Always+Learning+%7C+Building+with+AI+%7C+Shipping+in+the+Cloud+☁️" alt="Typing SVG" />
-</h3>
-
-
 ## 🧩 Featured Projects
+
 ### 🔎 AI Job Finder Agent
 *Aggregates job listings via APIs, embeds & ranks them against my resume, and produces a daily shortlist.*  
 **Stack:** Python · LangChain · OpenAI · Chroma/FAISS · JSearch API  
-> Built for extendable automation — future additions include email digest, tailored resumes, and FastAPI UI.
+> Designed for scalable automation — roadmap includes email digests and tailored resume generation.
 
 ### ☁️ FeedbackIQ – Cloud-Native Feedback Portal
-*Analyzes 1k+ customer feedbacks/day with real-time sentiment alerts and a React dashboard.*  
-**Stack:** AWS Lambda · S3 · RDS · Comprehend · SQS/SNS · Amplify · IAM · React  
-> Achieved 99.9% uptime and reduced manual review by 60%.
+*Analyzes 1k+ feedbacks/day with real-time sentiment alerts and dashboards.*  
+**Stack:** AWS Lambda · S3 · RDS · Comprehend · SQS/SNS · React  
+> Achieved 99.9% uptime and reduced manual review time by 60%.
 
 ### ⚙️ .NET Microservices Accelerator
 *Parallel data workflows that reduced latency 60 → 15 minutes.*  
 **Stack:** .NET Core · Angular · REST APIs · Docker  
-> Designed for high-throughput processing and observability.
+> Optimized for throughput and maintainability at scale.
 
 ---
 
 ## 📜 Certifications
-**Microsoft Azure AI Engineer Associate (AI-102)** · **Azure AI Fundamentals (AI-900)** · **Azure Fundamentals (AZ-900)**
+**Microsoft Certified:**  
+AI Engineer Associate (AI-102) · Azure AI Fundamentals (AI-900) · Azure Fundamentals (AZ-900)
 
 ---
 
-## 💡 Mindset
-🌟 **Quick learner:** I pick up new tools and frameworks fast — from LangChain to Kubernetes — and love applying them to real-world problems.  
-🔥 **Self-motivated:** I thrive in fast-moving teams, experiment relentlessly, and enjoy building ideas from scratch.  
-🧩 **Collaborative:** I believe every great system is built through teamwork, curiosity, and constant iteration.  
-
----
-
-## 📫 Contact
-**Email:** pmitta21@asu.edu · **Portfolio:** [prachimittal23.github.io](https://prachimittal23.github.io) · **LinkedIn:** [/in/mittal-prachi1/](https://www.linkedin.com/in/mittal-prachi1/)
-
----
-
-<p align="center">
-  <i>“Turning complex workflows into simple, automated, cloud-first systems — powered by AI, driven by curiosity.”</i>
-</p>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&random=false&width=600&lines=💡+Curious+Mind+in+AI+%7C+Cloud+Native+Builder+%7C+Always+Eager+to+Learn+and+Innovate+🚀" alt="Typing SVG" />
+</h3>
