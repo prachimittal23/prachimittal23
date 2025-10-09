@@ -1,6 +1,12 @@
-<h1 align="center">Hi, I'm <b>Prachi Mittal</b></h1>
+<h1 align="center">👋 Hi, I'm <b>Prachi Mittal</b></h1>
+
 <p align="center">
-  <b>Cloud Developer • AI Engineer • Software Developer</b><br>
+  <!-- Profile visitor badge -->
+  <img src="https://komarev.com/ghpvc/?username=prachimittal23&label=Profile%20Views&color=8A2BE2&style=flat" alt="profile views"/>
+</p>
+
+<p align="center">
+  <b>Cloud Developer • Software Developer (Python) • AI Engineer</b><br>
   <a href="mailto:pmitta21@asu.edu">pmitta21@asu.edu</a> ·
   <a href="https://prachimittal23.github.io" target="_blank">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/mittal-prachi1/" target="_blank">LinkedIn</a>
@@ -9,11 +15,12 @@
 ---
 
 ## 🚀 What I Do
-I’m a **Software Developer** turned **Cloud Engineer**, building scalable and intelligent systems.  
-My experience spans **.NET, AWS Serverless, and modern web frameworks**, delivering optimized microservices and cloud-native data pipelines that process thousands of records weekly.  
+I’m a **Software Developer (Python)** and **Cloud Engineer** passionate about building scalable, production-ready systems.  
+My focus is on **backend and platform engineering** — APIs, microservices, and serverless architectures on **AWS and Azure**.  
 
-Currently exploring **AI-driven automation and LLM applications**, integrating tools like **LangChain**, **OpenAI**, and **AWS SageMaker** to bridge software engineering and applied AI.  
-I’m constantly learning, experimenting, and building — from production-ready cloud systems to experimental AI agents that solve real-world challenges.
+I design solutions that are reliable, performant, and easy to maintain — from event-driven pipelines to real-time dashboards.  
+Curious about innovation, I occasionally bring **practical AI capabilities** into my work (like text analysis, ranking, and summarization) where they truly make an impact.  
+I’m motivated by challenges, quick to learn new technologies, and love transforming ideas into well-engineered products.
 
 ---
 
@@ -67,7 +74,7 @@ I’m constantly learning, experimenting, and building — from production-ready
 ## 🧩 Featured Projects
 
 ### 🔎 AI Job Finder Agent
-*Aggregates job listings via APIs, embeds & ranks them against my resume, and produces a daily shortlist.*  
+*Aggregates job postings via APIs, embeds & ranks them against my resume, and produces a daily shortlist.*  
 **Stack:** Python · LangChain · OpenAI · Chroma/FAISS · JSearch API  
 > Designed for scalable automation — roadmap includes email digests and tailored resume generation.
 
@@ -90,5 +97,5 @@ AI Engineer Associate (AI-102) · Azure AI Fundamentals (AI-900) · Azure Fundam
 ---
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&random=false&width=600&lines=💡+Curious+Mind+in+AI+%7C+Cloud+Native+Builder+%7C+Always+Eager+to+Learn+and+Innovate+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&random=false&width=600&lines=💡+Python+Developer+%7C+Cloud+Engineer+%7C+Quick+Learner+and+Problem+Solver+🚀" alt="Typing SVG" />
 </h3>
