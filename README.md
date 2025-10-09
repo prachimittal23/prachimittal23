@@ -1,9 +1,6 @@
 <h1 align="center">👋 Hi, I'm <b>Prachi Mittal</b></h1>
 
-<p align="center">
-  <!-- Profile visitor badge -->
-  <img src="https://komarev.com/ghpvc/?username=prachimittal23&label=Profile%20Views&color=8A2BE2&style=flat" alt="profile views"/>
-</p>
+
 
 <p align="center">
   <b>Cloud Developer • Software Developer (Python) • AI Engineer</b><br>
@@ -95,7 +92,8 @@ I’m motivated by challenges, quick to learn new technologies, and love transfo
 AI Engineer Associate (AI-102) · Azure AI Fundamentals (AI-900) · Azure Fundamentals (AZ-900)
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prachimittal23&label=Profile%20Views&color=8A2BE2&style=flat" alt="Profile views"/>
+</p>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&random=false&width=600&lines=💡+Python+Developer+%7C+Cloud+Engineer+%7C+Quick+Learner+and+Problem+Solver+🚀" alt="Typing SVG" />
-</h3>
+<p align="center"><em>Python Developer · Cloud Engineer · Quick learner & problem solver</em></p>
