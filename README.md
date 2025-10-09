@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm <b>Prachi Mittal</b></h1>
 
 <p align="center">
-  <b>Cloud Developer • Software Developer (Python) • AI Engineer</b><br>
+  <b>Cloud Developer • Software Developer • AI Engineer</b><br>
   <a href="mailto:pmitta21@asu.edu">pmitta21@asu.edu</a> ·
   <a href="https://prachimittal23.github.io" target="_blank">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/mittal-prachi1/" target="_blank">LinkedIn</a>
