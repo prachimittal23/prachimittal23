@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Prachi Mittal 👋</h1>
-<h3 align="center">Cloud Engineer • Backend Developer • AI Engineer</h3>
+<h3 align="center">Cloud Engineer · Backend Developer · AI Engineer</h3>
 
 <p align="center">
   <a href="https://prachimittal23.github.io">🌐 Portfolio</a> ·
@@ -15,11 +15,13 @@
 
 ## 🚀 About Me
 
-I'm a **Cloud Engineer at American Tire Distributors** with about 3 years of full-stack and cloud engineering experience across **AWS, GCP, and Azure**. My current work spans Python services on GKE, FastAPI integrations secured with SAML/SSO, async data pipelines, and LLM-driven engineering workflows.
+I'm a **Cloud Engineer at American Tire Distributors**, building production Python services on **Google Kubernetes Engine**, FastAPI integrations secured with **Okta SSO + SAML**, and async data pipelines that move real data through real systems. About **3 years across AWS, GCP, and Azure**.
 
-Before this, I spent two years at Cognizant on Credit Suisse's wealth management platform building C#/.NET decision engines and complex SQL systems for client product eligibility. **MS in IT from Arizona State University (GPA 3.83).**
+Before this, I spent two years at **Cognizant on Credit Suisse's wealth management platform**, building C#/.NET decision engines and SQL systems that determined client eligibility for financial products across cross-border regulatory rules. **MS in IT from Arizona State University (GPA 3.83).**
 
-I bring AI into engineering when it earns its place. Daily Claude Code user. Strong opinions about clean code, TDD, and reliable async systems, with the openness to question them.
+I'm a daily **Claude Code** user, **Azure AI-102 certified**, and I bring AI into engineering when it earns its place. Strong opinions about clean code, TDD, and reliable async systems, held loosely.
+
+📍 Charlotte, NC · Willing to relocate anywhere in the United States
 
 ---
 
@@ -154,7 +156,7 @@ Event-driven serverless system processing customer feedback at scale with real-t
 - 🔭 Shipping an LLM integration project at ATD
 - 🌱 Learning more about MCP servers, agentic workflows, and modern AI engineering patterns
 - 💬 Open to chatting about cloud engineering, AI engineering, or fintech infrastructure
-- 📍 Charlotte, NC · Planning to relocate to Seattle
+- 📍 Charlotte, NC · Willing to relocate anywhere in the United States
 
 ---
 
