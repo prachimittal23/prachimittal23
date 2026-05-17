@@ -1,8 +1,4 @@
 
-Prachi Mittal (Contractor)
-12:16 AM (0 minutes ago)
-to me
-
 # 👋 Hi, I'm **Prachi Mittal**
 
 **Cloud Engineer • Backend Developer • AI Engineer**  
