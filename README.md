@@ -1,95 +1,67 @@
-<h1 align="center">👋 Hi, I'm <b>Prachi Mittal</b></h1>
 
-<p align="center">
-  <b>Cloud Developer • Software Developer • AI Engineer</b><br>
-  <a href="mailto:pmitta21@asu.edu">pmitta21@asu.edu</a> ·
-  <a href="https://prachimittal23.github.io" target="_blank">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/mittal-prachi1/" target="_blank">LinkedIn</a>
-</p>
+Prachi Mittal (Contractor)
+12:16 AM (0 minutes ago)
+to me
+
+# 👋 Hi, I'm **Prachi Mittal**
+
+**Cloud Engineer • Backend Developer • AI Engineer**  
+pmitta21@asu.edu · [Portfolio](https://prachimittal23.github.io) · [LinkedIn](https://www.linkedin.com/in/mittal-prachi1/)
 
 ---
 
 ## 🚀 What I Do
-I build backend services and cloud systems that are dependable, fast, and easy to maintain. Most of my work is in Python and .NET, with real deployments on AWS and Azure. I enjoy shaping APIs, microservices, and event driven pipelines and I like seeing dashboards light up when everything comes together.
 
-I am curious about AI and bring it in when it clearly helps, for example for text analysis, ranking, and summarizing. I learn quickly, ship often, and care about clean code that teams can trust in production.
+I'm a Cloud Engineer at American Tire Distributors, currently shipping production Python services on GKE, FastAPI integrations against REST APIs secured with SAML/SSO, and LLM-driven engineering workflows. My day-to-day spans GCP, AWS, and Azure, with strong roots in C#/.NET from earlier work on Credit Suisse's wealth management platform at Cognizant.
+
+I build with TDD, care about clean APIs and reliable async pipelines, and bring AI into engineering when it earns its place.
 
 ---
 
 ## 🧠 Tech Stack
 
-<p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-<p align="center">
-  <!-- Backend / Web -->
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-</p>
-
-<p align="center">
-  <!-- Cloud / Infra -->
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
-</p>
-
-<p align="center">
-  <!-- Data / AI / ML -->
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SageMaker-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</p>
-
-<p align="center">
-  <!-- DevOps / Analytics -->
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-</p>
+**Languages:** Python · Java · C# · SQL · JavaScript · Bash  
+**Backend:** FastAPI · Flask · .NET Core · REST APIs · Microservices  
+**Cloud (GCP):** GKE · Cloud Storage · Cloud Scheduler · Workload Identity · IAM  
+**Cloud (AWS):** Lambda · Step Functions · API Gateway · S3 · SQS · SNS · Aurora  
+**Cloud (Azure):** Azure AI Services · Azure DevOps  
+**Data:** PostgreSQL · MongoDB · MySQL · Kafka · CDC pipelines  
+**DevOps:** Docker · Kubernetes · Terraform · Jenkins · GitHub Actions  
+**Testing:** pytest · Allure · TDD · CI test automation  
+**AI/ML:** LLM Integration · RAG · Vector Search · NLP · LangChain · OpenAI API  
+**Identity:** SAML · Okta SSO · GCP Workload Identity · Token-based Auth  
 
 ---
 
 ## 🧩 Featured Projects
 
-### 🔎 AI Job Finder Agent
-This agent pulls fresh job posts through public APIs, embeds and compares them to my resume, and produces a daily shortlist with links.  
-**Stack:** Python, LangChain, OpenAI, Chroma or FAISS, JSearch API  
-Built for automation and easy extension. Email digests and tailored resume text are next.
+### 🚀 TrackIT — Open-source Project Management Platform
+Replaced a $230K/year third-party tool at ATD with an OpenProject-based platform on GCP. Designed end-to-end: GKE migration, Okta SSO via SAML, Python/FastAPI integration with OpenProject REST API, and a Cloud Scheduler-driven extract pipeline to our finance system via GCS.  
+**Stack:** Python, FastAPI, GKE, GCS, Cloud Scheduler, Okta, SAML, Workload Identity
 
-### ☁️ FeedbackIQ
-A cloud portal that ingests customer feedback at scale and sends real time sentiment alerts with a simple dashboard.  
-**Stack:** AWS Lambda, S3, RDS, Comprehend, SQS and SNS, React  
-The pilot ran at 99.9 percent uptime and cut manual review time by about 60 percent.
+### 🔎 AutoAssist AI — RAG Chatbot
+Retrieval-augmented chatbot using vector search and LLMs to resolve queries in real time over structured and unstructured datasets. Built the backend APIs and ingestion pipelines that feed the model the right context per query.  
+**Stack:** Python, LangChain, Vector Search, OpenAI API
 
-### ⚙️ .NET Microservices Accelerator
-Parallel data services that turned hour long processing into a quick run.  
-**Stack:** .NET Core, Angular, REST APIs, Docker  
-Designed for throughput with clear observability.
+### ⚙️ Word Document Conversion Microservice
+Python microservice on GKE that handles document conversion through async workflows with concurrency control and retry logic. Cut processing time from ~45 minutes to under 1 minute (~95% reduction).  
+**Stack:** Python, GKE, GCS, Workload Identity, IAM
+
+### 🧪 Pytest Automation Frameworks
+- **Pricing Service:** 120+ tests covering pricing logic, input validation, edge cases, and historical endpoints. MongoDB validation, Allure reporting.  
+- **Kafka-to-PostgreSQL CDC Pipeline:** 42+ tests validating Kafka schemas across ProductCatalog, Product, and ProductCategory streams plus their REST APIs.  
+**Stack:** pytest, MongoDB, PostgreSQL, Kafka, Allure
+
+### ☁️ FeedbackIQ — Serverless Feedback Platform
+Event-driven serverless system processing 1000+ daily feedback inputs with real-time sentiment analysis. Reduced manual review effort by 60% at 99.9% uptime.  
+**Stack:** AWS Lambda, S3, Comprehend, SQS/SNS, React
 
 ---
 
 ## 📜 Certifications
-**Microsoft Certified:**  
-AI Engineer Associate (AI 102), Azure AI Fundamentals (AI 900), Azure Fundamentals (AZ 900)
+
+**Microsoft Certified:** AI Engineer Associate (AI-102) · Azure AI Fundamentals (AI-900) · Azure Fundamentals (AZ-900)
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prachimittal23&label=Profile%20Views&color=8A2BE2&style=flat" alt="Profile views"/>
-</p>
-
-<p align="center"><em>Python developer at heart, cloud builder by habit, always curious and ready to ship.</em></p>
+*Python at heart, cloud builder by habit, always curious and ready to ship.*
